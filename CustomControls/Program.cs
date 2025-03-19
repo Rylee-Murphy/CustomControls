@@ -1,4 +1,4 @@
-namespace CustomControls
+namespace WinformTodo
 {
     internal static class Program
     {
